@@ -1,0 +1,9 @@
+.git/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+fraud_model.joblib
+fraud_metrics.json
+fraud_predictions.csv
+fraud_scores.csv
